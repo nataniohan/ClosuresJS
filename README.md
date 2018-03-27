@@ -1,4 +1,4 @@
 # ClosuresJS
 
-CLOSURES in JS are pattern used in projects, as minipulation of the "this"
-you can run away the escopo global using this method
+CLOSURES in JS are pattern used in projects, with hes you can 
+manipulation the "this", and run away the escopo global
